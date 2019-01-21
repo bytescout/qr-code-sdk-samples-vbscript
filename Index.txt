@@ -1,7 +1,7 @@
 ## Index of source code examples:
 
-\Colored QR Code
-\General Example
-\GS1 QR Code
-\QR Code With Image
-\Unicode Value
+\create Colored QR Code
+\create GS1 QR Code
+\create simple qr code barcode
+\encode Unicode Value to qr code
+\make QR Code With embedded Image
