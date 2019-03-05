@@ -1,5 +1,6 @@
 ## Index of source code examples:
 
+\Command Line Use
 \Create Colored QR Code
 \Create GS1 QR Code
 \Create Simple QR Code Barcode
